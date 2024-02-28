@@ -1,0 +1,1 @@
+Every components has it's own memory that is called state
